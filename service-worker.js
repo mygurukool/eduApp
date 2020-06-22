@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "mygurukool.github.io/mygurukool/precache-manifest.4c38a4a4b236ea86a64e2bd2bb2700aa.js"
+  "mygurukool.github.io/eduApp/precache-manifest.e98094cf9bdc7efe916deca80909d928.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("mygurukool.github.io/mygurukool/index.html", {
+workbox.routing.registerNavigationRoute("mygurukool.github.io/eduApp/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
