@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "mygurukool.github.io/eduApp/precache-manifest.0446be8e5d01c6fa603195cf48669ef9.js"
+  "mygurukool.github.io/eduApp/precache-manifest.2a36badc4c86d32765fc1e74e667282c.js"
 );
 
 workbox.clientsClaim();

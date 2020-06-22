@@ -92,16 +92,16 @@ self.__precacheManifest = [
     "url": "mygurukool.github.io/eduApp/static/media/fa-solid-900.9a1672a8.eot"
   },
   {
+    "revision": "412a43d6840addd683665ec12c30f810",
+    "url": "mygurukool.github.io/eduApp/static/media/fa-solid-900.412a43d6.woff2"
+  },
+  {
     "revision": "f3a7d3b5880544a91e9a7e6f8f35d4d2",
     "url": "mygurukool.github.io/eduApp/static/media/fa-solid-900.f3a7d3b5.woff"
   },
   {
     "revision": "c65d154888aa166982dac3e72e7380ec",
     "url": "mygurukool.github.io/eduApp/static/media/fa-solid-900.c65d1548.ttf"
-  },
-  {
-    "revision": "412a43d6840addd683665ec12c30f810",
-    "url": "mygurukool.github.io/eduApp/static/media/fa-solid-900.412a43d6.woff2"
   },
   {
     "revision": "778b1f251bea7412048da95b87bf816f",
